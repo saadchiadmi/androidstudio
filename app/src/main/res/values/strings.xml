@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pro</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+    <string-array name="prices">
+        <item>1.99$</item>
+        <item>1.29$</item>
+        <item>0.89$</item>
+    </string-array>
+    <string-array name="decriptions">
+        <item>Fresh peach from Georgia</item>
+        <item>Fresh salad tomatoes from Ohio</item>
+        <item>Fresh yellow squash from California</item>
+    </string-array>
+</resources>
